@@ -1,2 +1,1 @@
-# molvis-gui
-react-based molvis menu
+Molvis web gui based react and fluent 8
